@@ -23,4 +23,4 @@ The operation of MUD is quite simple. Once the plugin is installed, you will be 
 3. **Safe**: the url was rated safe
 4. **Disabled**: the plugin has been disabled. Click on the icon to enable it
 
-![Alt Text](https://andreatripoli.it/gif/mud.gif)
+![Alt Text](https://s7.gifyu.com/images/mud.gif)
