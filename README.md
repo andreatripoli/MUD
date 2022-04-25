@@ -16,6 +16,9 @@ MUD, acronym for Malicious URL Detector, arises from the need to analyze the rea
 Currently, MUD is present as an extension in the *Chrome Web Store* and you can install it for free from it. It will be possible to go to the website [www.google.com](www.google.com) and click on *Add.*
 
 # How Does It Work
+
+![MUD_SAFE](https://user-images.githubusercontent.com/23087102/165180077-d5160898-3530-4b55-a677-a332585558bc.gif)
+
 The operation of MUD is quite simple. Once the plugin is installed, you will be able to browse your sites safely. Whenever we browse a site, the url will be scanned and evaluated in real time. MUD provides three answers:
 1. **Warning**: the url is being scanned and evaluated
 2. **Danger**: the url was rated as dangerous
