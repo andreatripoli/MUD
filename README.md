@@ -7,8 +7,7 @@
 - [What is MUD](#what-is)
 - [How to install](#how-to-install)
 - [How Does It Work](#how-does-it-work)
-- [Support](#support)
-- [License](#license) 
+- [Privacy Policy](#privacy-policy) 
 
 # What is MUD
 MUD, acronym for Malicious URL Detector, arises from the need to analyze the real time if a site we visit is a possible malicious url. MUD warns us of the possible danger in order to avoid phishing attempts, etc... . MUD uses 24 factors and Machine Learning algorithm to analyze and accurately evaluate the degree of danger.
@@ -23,11 +22,7 @@ The operation of MUD is quite simple. Once the plugin is installed, you will be 
 3. **Safe**: the url was rated safe
 4. **Disabled**: the plugin has been disabled. Click on the icon to enable it
 
-# Support
-For support or information please contact me on github. I will answer you as soon as possible.
-
-# License
-<h1>Privacy Policy</h1>
+# Privacy Policy
 <p>Last updated: April 25, 2022</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/" target="_blank">Privacy Policy Generator</a>.</p>
