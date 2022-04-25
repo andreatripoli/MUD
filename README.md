@@ -22,3 +22,5 @@ The operation of MUD is quite simple. Once the plugin is installed, you will be 
 2. **Danger**: the url was rated as dangerous
 3. **Safe**: the url was rated safe
 4. **Disabled**: the plugin has been disabled. Click on the icon to enable it
+
+![Alt Text](https://andreatripoli.it/fig/mud.gif)
