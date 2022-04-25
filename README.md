@@ -10,7 +10,7 @@
 - [Privacy Policy](#privacy-policy) 
 
 # What is MUD
-MUD, acronym for Malicious URL Detector, arises from the need to analyze the real time if a site we visit is a possible malicious url. MUD warns us of the possible danger in order to avoid phishing attempts, etc... . MUD uses 24 factors and Machine Learning algorithm to analyze and accurately evaluate the degree of danger.
+MUD, acronym for Malicious URL Detector, arises from the need to analyze the real time if a site we visit is a possible malicious url. MUD warns us of the possible danger in order to avoid phishing attempts, etc... . MUD uses 24 factors and Machine Learning algorithm to analyze and accurately evaluate the degree of danger. The algorithm used has a **97%** confidence rate.
 
 # How to install
 Currently, MUD is present as an extension in the *Chrome Web Store* and you can install it for free from it. It will be possible to go to the website [www.google.com](www.google.com) and click on *Add.*
