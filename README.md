@@ -22,11 +22,12 @@ The operation of MUD is quite simple. Once the plugin is installed, you will be 
 3. **Safe**: the url was rated safe
 4. **Disabled**: the plugin has been disabled. Click on the icon to enable it
 
-![Recordit GIF](https://user-images.githubusercontent.com/23087102/165179397-475747a7-d378-4415-ade9-36a97a56b36c.PNG)
-![Recordit GIF](https://user-images.githubusercontent.com/23087102/165179393-e6458001-9ec0-4ff0-a893-ff66a4181413.PNG)
+![MUD_SAFE](https://user-images.githubusercontent.com/23087102/165179397-475747a7-d378-4415-ade9-36a97a56b36c.PNG)
+![MUD_DANGER](https://user-images.githubusercontent.com/23087102/165179401-762c0363-20b8-45a7-91d8-475945755830.PNG)
 
-![Recordit GIF](https://user-images.githubusercontent.com/23087102/165179400-0b0e7ac9-1c54-4205-aed1-dab49fd478df.PNG)
-![Recordit GIF](https://user-images.githubusercontent.com/23087102/165179401-762c0363-20b8-45a7-91d8-475945755830.PNG)
+![MUD_WAITING](https://user-images.githubusercontent.com/23087102/165179400-0b0e7ac9-1c54-4205-aed1-dab49fd478df.PNG)
+![MUD_DISABLED](https://user-images.githubusercontent.com/23087102/165179393-e6458001-9ec0-4ff0-a893-ff66a4181413.PNG)
+
 
 
 
