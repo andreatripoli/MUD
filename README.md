@@ -5,10 +5,11 @@
 
 # Index
 - [What is MUD](#what-is)
+- [How to install](#how-to-install)
 - [How Does It Work](#how-does-it-work)
 - [Support](#support)
 - [License](#license) 
 
-## How Does It Work?
+# What is MUD
+MUD
 
-![MUD GIF](https://www.andreatripoli.it/gif/mud.gif)
