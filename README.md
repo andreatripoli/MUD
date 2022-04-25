@@ -7,6 +7,7 @@
 - [What is MUD](#what-is)
 - [How to install](#how-to-install)
 - [How Does It Work](#how-does-it-work)
+- [Version](#version)
 - [Privacy Policy](#privacy-policy) 
 
 # What is MUD
@@ -32,7 +33,8 @@ The operation of MUD is quite simple. Once the plugin is installed, you will be 
 ![MUD_DISABLED](https://user-images.githubusercontent.com/23087102/165179393-e6458001-9ec0-4ff0-a893-ff66a4181413.PNG)
 
 
-
+# Version
+1.0.0
 
 # Privacy Policy
 <p>Last updated: April 25, 2022</p>
