@@ -166,7 +166,7 @@ The operation of MUD is quite simple. Once the plugin is installed, you will be 
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
 <li>
-<p>By email: andrea.tripoli96@gmail.com</p>
+<p>By email: info@andreatripoli.it</p>
 </li>
 <li>
 <p>By visiting this page on our website: <a href="https://github.com/andreatripoli/MUD" rel="external nofollow noopener" target="_blank">https://github.com/andreatripoli/MUD</a></p>
